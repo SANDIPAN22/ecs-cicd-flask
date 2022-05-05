@@ -1,6 +1,6 @@
 # ecs-cicd-flask 
 
-[(flask + gunicorn) + Dockerized] => ECR 
+## [(flask + gunicorn) + Dockerized] => ECR 
 ECS Cluster build
 Task definition creation + Container Attach (ecr)
 Create Service using the Task definition 
